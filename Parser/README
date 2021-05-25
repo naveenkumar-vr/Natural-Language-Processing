@@ -1,0 +1,4 @@
+Design a small (grammar size 40-50 rules) for a subset of English for querying / describing life at IIITB --- 
+academic schedules and courses, events and student activities at iiitb, policies and rules (both for academic programs and hostel / student activities) at iiitb, placement at iiitb, iiitb campus infrastructure --- are some possible 'domains'. 
+Build a parser for your subset of the language using Lark (https://github.com/lark-parser/lark) which is a popular parser generator in python. 
+The parser must output the parse tree for any sentence in your subset of English.
